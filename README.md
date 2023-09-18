@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm XinYu Piao (HeumWoo Park) 👋
+
+- 👨‍🎓 A Ph.D student at Korea University, Seoul, Korea.
+- 👨‍💻 My interests:
+   - Deep learning acceleration/parallelization
+   - System for ML
+   - Distributed/Cloud computing
+- 📫 How to reach me: [xypiao97 at korea.ac.kr](xypiao97@korea.ac.kr)
 
 <!--
 **xypiao97/xypiao97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
