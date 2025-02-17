@@ -1,8 +1,8 @@
 ### Hi, I'm XinYu Piao (HeumWoo Park) 👋
 
 - 👨‍🎓 Education:
-   - Ph.D in the Department of Electrical and Computer Engineering, Korea University, Seoul, South Korea (Mar. 2020 ~ Feb. 2025)
-   - B.S. in the School of Electrical Engineering, Korea University, Seoul, South Korea (Mar. 2016 ~ Feb. 2020).
+   - Ph.D in the Department of Electrical and Computer Engineering, Korea University (Mar. 2020 ~ Feb. 2025)
+   - B.S. in the School of Electrical Engineering, Korea University (Mar. 2016 ~ Feb. 2020)
 - 👨‍💻 My interests:
    - Systems for AI
    - Deep Learning
